@@ -1,0 +1,8 @@
+__pycache__/
+reports/
+generated_dataset/
+models/
+*.h5
+*.pickle
+*.zip
+settings.json
